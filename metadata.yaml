@@ -1,0 +1,28 @@
+_repo: Amerikanskt-Som-emigrant-till-Amerika_65056
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nordström, Ester Blenda
+    alias: Nordstrom, Ester Blenda
+    birthdate: 1891
+    deathdate: 1948
+    gutenberg_agent_id: '45061'
+    url: http://www.gutenberg.org/2009/agents/45061
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ester_Blenda_Nordstr%C3%B6m
+    - https://sv.wikipedia.org/wiki/Ester_Blenda_Nordstr%C3%B6m
+description: ''
+gutenberg_issued: '2021-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65056'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Amerikanskt
+
+  Som emigrant till Amerika'
+url: http://www.gutenberg.org/ebooks/65056
